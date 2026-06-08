@@ -1,0 +1,31 @@
+{
+  "systems": [
+    {
+      "name": "CALL OF DUTY",
+      "status": "ONLINE",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "logo": "",
+      "libs": [
+        {
+          "name": "IMMORTAL KING [ PREMIUM SKINHAX ]",
+          "lib_name": "libxxx1.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx1.so"
+        },
+        {
+          "name": "YURI CRACKED ME",
+          "lib_name": "libxxx2.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx2.so"
+        },
+        {
+          "name": "YURI CRACKED",
+          "lib_name": "libxxx3.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx3.so"
+        },
+        {
+          "name": "YURI MEOW",
+          "lib_name": "libxxx4.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx4.so"
+        }
+      ]
+    },
+}
