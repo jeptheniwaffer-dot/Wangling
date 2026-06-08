@@ -4,26 +4,69 @@
       "name": "CALL OF DUTY",
       "status": "ONLINE",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/senseikiel8-coder/kiel.json/main/Call%20Of%20Duty%20Mobile%20Wallpaper.jpg",
       "libs": [
         {
-          "name": "IMMORTAL KING [ PREMIUM SKINHAX ]",
-          "lib_name": "libxxx1.so",
-          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx1.so"
+          "name": "KIELHAX PREMIER [ PREMIUM SKINHAX ]",
+          "lib_name": "libkielhaxpremier.so",
+          "download_url": "https://imezekiel.x10.mx/Farlight/libkielhaxpremier.so"
         },
         {
-          "name": "YURI CRACKED ME",
-          "lib_name": "libxxx2.so",
-          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx2.so"
+          "name": "KIELHAX DELUXE [ SKINHAX OPTIMIZED ]",
+          "lib_name": "libkielhaxdeluxe.so",
+          "download_url": "https://imezekiel.x10.mx/Farlight/libkielhaxdeluxe.so"
         },
         {
-          "name": "YURI CRACKED",
-          "lib_name": "libxxx3.so",
-          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx3.so"
+          "name": "KIELHAX LOWEND [ NO SKINHAX ]",
+          "lib_name": "libkielhaxlowend.so",
+          "download_url": "https://imezekiel.x10.mx/Farlight/libkielhaxlowend.so"
         },
         {
-          "name": "YURI MEOW",
-          "lib_name": "libxxx4.so",
-          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx4.so"
+          "name": "OLD LOWEND V3",
+          "lib_name": "libkielhaxlowendv3.so",
+          "download_url": "https://imezekiel.x10.mx/Farlight/libkielhaxlowendv3.so"
         }
+      ]
+    },
+    {
+      "name": "BLOOD STRIKE",
+      "status": "ONLINE",
+      "game_activity": "com.netease.bloodstrike.unity.MainActivity",
+      "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/b23ec8eaa31eb1e679e9a88509adb3f5.jpg",
+      "libs": [
+        {
+          "name": "KIELHAX BLOODSTRIKE [ SULASOK ]",
+          "lib_name": "libkielhaxbloodstrike.so",
+          "download_url": "https://imezekiel.x10.mx/Farlight/libkielhaxbloodstrike.so"
+        }
+      ]
+    },
+    {
+      "name": "MOBILE LEGENDS",
+      "status": "MAINTENANCE",
+      "game_activity": "com.moba.unityplugin.MobaGameMainActivity",
+      "logo": "https://raw.githubusercontent.com/senseikiel8-coder/kiel.json/main/1ee440fb871542f6cdb2032200ef725f.jpg",
+      "libs": [
+        {
+          "name": "KIELHAX MLBB [ AUTOBAN 10Y ]",
+          "lib_name": "libkielhaxmlbb.so",
+          "download_url": "https://imezekiel.x10.mx/Farlight/libkielhaxmlbb.so"
+        }
+      ]
+    },
+    {
+      "name": "CODM CRACKS",
+      "status": "ONLINE",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "logo": "https://raw.githubusercontent.com/senseikiel8-coder/kiel.json/main/cracks.png",
+      "libs": [
+        {
+          "name": "cid deluxe",
+          "lib_name": "libv+++.so",
+          "download_url": "https://imezekiel.x10.mx/Farlight/libv+++.so"
+        }
+      ]
+    }
+  ],
+  "music": "https://zomato.top/anti/lib/Kalapastangan.mp3"
 }
